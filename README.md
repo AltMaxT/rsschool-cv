@@ -1,2 +1,2 @@
 # rsschool-cv
-https://altmaxt.github.io/rsschool-cv/cv
+https://altmaxt.github.io/rsschool-cv/
